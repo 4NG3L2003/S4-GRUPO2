@@ -1,0 +1,4 @@
+nombre y apellido: Diego Porras
+Codigo de estudiante: U23253553
+Lugar de residencia: Jauja
+Carrera: Ingeniería de Sistemas Informatica
