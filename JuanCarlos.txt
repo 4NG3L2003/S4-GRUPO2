@@ -2,3 +2,5 @@ nombre y apellido : Juan Carlos Soto
 Codigo de estudiante: u24258058
 lugar de residencia: Arequipa
 carrera: ingeniería de sistemas
+
+estoy practicando 
